@@ -27,7 +27,8 @@
 * Migrated Kafka workloads to **Strimzi on GKE**; standardized CI/CD with **ArgoCD (GitOps)**.
 * Drove platforms to **99.99% uptime** with performance and cost optimization baked in.
 
-> 🧰 Previously at Shara, Credrails, Andela/Firstup, Ajocard, FHI 360, GIZ.
+> 🧰 Currently at Shara Inc.
+> > 🧰 Previously at Credrails, Andela/Firstup, Ajocard, FHI 360, GIZ.
 
 ---
 
@@ -68,7 +69,7 @@
 
 ## 📈 GitHub Stats
 
-> Replace `YOUR_GITHUB_USERNAME` below with your actual GitHub username.
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayobuba&show_icons=true&hide_border=true" alt="GitHub Stats" />
@@ -113,22 +114,6 @@
 * 💼 <a href="https://www.linkedin.com/in/edwardbuba">LinkedIn</a>
 * ✉️ <a href="mailto:edward.buba@outlook.com">Email</a>
 
----
-
-### 🧪 Quick Tips
-
-* Keep this README short, visual, and regularly updated.
-* Use pinned repos to showcase depth; the README gives breadth.
-* Add screenshots/gifs in your repo READMEs for extra punch.
-
----
-
-### ⚙️ Local Setup
-
-```bash
-# Replace placeholders then preview locally
-sed -i 's/YOUR_GITHUB_USERNAME/ayobuba/g' README.md  # or your actual username
-```
 
 ---
 
